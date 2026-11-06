@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "ppa",
+  "versions": [
+    {
+      "commit": "1e60de5624392831225ee1de26979699f52c02ae",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:44:33.455128+00:00"
+    }
+  ]
+}
